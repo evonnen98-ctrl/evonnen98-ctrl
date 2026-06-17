@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**evonnen98-ctrl/evonnen98-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Evonne. I come from a strategy and management consulting background, but recently fell down the rabbit hole of experimenting with AI and building things using code. 
 
-Here are some ideas to get you started:
+Here are some of the projects that I've worked on in recent months:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Projects 🌟
+
+| Project | Description |
+| :--- | :--- |
+| 📋 **[My Coach](https://github.com/evonnen98-ctrl/endurance-coach)** | An AI-powered endurance and triathlon coaching platform that generates automated training plans. |
+| 📍 **[My Next Spot](https://github.com/evonnen98-ctrl/Melbourne-picks)** | A web application designed to help users discover and map out their next restaurant or bar. |
+| 👗 **[My Drobe](https://github.com/evonnen98-ctrl/Seam)** | A digital wardrobe focusing on smart clothing organisation and styling. |
+| 🌐 **[Personal Website](https://github.com/evonnen98-ctrl/personal-site)** | My portfolio site built from scratch to showcase my live project demos. |
+
+---
+
+📫 **How to reach me:** https://www.linkedin.com/in/evonne-nguyen-19958b150/ 
