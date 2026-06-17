@@ -16,5 +16,3 @@ Here are some of the projects that I've worked on in recent months:
 | 🌐 **[Personal Website](https://github.com/evonnen98-ctrl/personal-site)** | My portfolio site to showcase my live project demos. |
 
 ---
-
-📫 **How to reach me:** https://www.linkedin.com/in/evonne-nguyen-19958b150/ 
