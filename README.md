@@ -10,7 +10,7 @@ Here are some of the projects that I've worked on in recent months:
 
 | Project | Description |
 | :--- | :--- |
-| 📋 **[My Coach](https://github.com/evonnen98-ctrl/endurance-coach)** | An AI-powered endurance and triathlon coaching platform that generates automated training plans. |
+| 📋 **[My Coach](https://github.com/evonnen98-ctrl/endurance-coach)** | A triathlon coaching platform that generates automated training plans. |
 | 📍 **[My Next Spot](https://github.com/evonnen98-ctrl/Melbourne-picks)** | A web application designed to help users discover and map out their next restaurant or bar. |
 | 👗 **[My Drobe](https://github.com/evonnen98-ctrl/Seam)** | A digital wardrobe focusing on smart clothing organisation and styling. |
 | 🌐 **[Personal Website](https://github.com/evonnen98-ctrl/personal-site)** | My portfolio site to showcase my live project demos. |
