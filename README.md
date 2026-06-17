@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Evonne. I come from a strategy and management consulting background, but recently fell down the rabbit hole of experimenting with AI and building things using code. 
+I'm Evonne. I come from a strategy consulting background, but recently started experimenting with AI and building things using code. 
 
 Here are some of the projects that I've worked on in recent months:
 
